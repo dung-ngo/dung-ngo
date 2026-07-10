@@ -2,7 +2,7 @@
 
 # Hi, I'm June 👋
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=FF947A&center=true&vCenter=true&width=600&lines=Hi+there👋;I'm+June+Ngo!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;pause=1000&amp;color=FF947A&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hi+there+%F0%9F%91%8B;I%27m+June+Ngo%21" alt="Typing SVG" />
 
 </div>
 
@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### Frontend Developer
+### Fullstack Frontend-focused Developer
 
 </div>
 
